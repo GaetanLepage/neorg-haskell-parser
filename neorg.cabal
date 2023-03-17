@@ -39,7 +39,7 @@ library
     -- other-extensions:
     build-depends:
       base ^>=4.16.4.0,
-      megaparsec ^>=9.3.0,
+      megaparsec ^>=9.1.0,
       containers,
       vector,
       transformers,
